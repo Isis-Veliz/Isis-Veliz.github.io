@@ -1,0 +1,37 @@
+body {
+    font-family: 'Edu NSW ACT Foundation' !important;
+    background-color: #F7EDEE !important;
+  }
+.card {
+    background-color: #E7D1D0!important;
+    color: #4d0b4d;
+}
+.location{
+    color:rgb(139, 3, 197);
+}
+#Sobre-mi {
+    background-image: url("../img/bg-rosa.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    margin-top:0rem !important;
+}
+.text-center{
+    text-align: center !important;
+}
+#Mis-Proyectos{
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+}
+.accordion-button{
+    background-color: #E7D1D0 !important;
+}
+.title-project{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#4d0b4d;
+    margin-top: 3rem;
+}
+
